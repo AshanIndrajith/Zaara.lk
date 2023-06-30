@@ -11,7 +11,7 @@ The website provides an intuitive and user-friendly interface that enables custo
 
 Login and Registration:
 
-Zara.lk provides a simple and secure login and registration system for two types of users: admin and customer. Customers can easily create an account by providing their basic information and choose a password. Once registered, they can log in to access their profile and make purchases. Admins, on the other hand, can create an admin account with a username and password to access the admin dashboard for store management.
+Zaara.lk provides a simple and secure login and registration system for two types of users: admin and customer. Customers can easily create an account by providing their basic information and choose a password. Once registered, they can log in to access their profile and make purchases. Admins, on the other hand, can create an admin account with a username and password to access the admin dashboard for store management.
 
 <img src="https://github.com/AshanIndrajith/Zaara.lk/blob/main/login.png">
 
@@ -20,7 +20,7 @@ Zara.lk provides a simple and secure login and registration system for two types
 
 Admin Features:
 
-Zara.lk's admin features allow easy management of the online store. Admins can handle customer information, manage admin accounts, update product details, view customer feedback, and provide live chat support. These features ensure efficient store operations and customer satisfaction.
+Zaara.lk's admin features allow easy management of the online store. Admins can handle customer information, manage admin accounts, update product details, view customer feedback, and provide live chat support. These features ensure efficient store operations and customer satisfaction.
 
 
 <img src="https://github.com/AshanIndrajith/Zaara.lk/blob/main/admin%20das.png">
