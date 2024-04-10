@@ -2,6 +2,20 @@
 Zaara.lk is an online clothing brand that offers a convenient platform for customers to purchase dresses and other clothing items online. The brand primarily operates through its website, allowing customers to browse through a wide range of trendy and fashionable clothing options
 
 
+Key Features:
+
+<ul>
+    <li>Search Functionality: Users can search for items they want to purchase by entering keywords or product names.</li>
+    <li>Add to Cart: Users can add selected items to their cart for future purchase.</li>
+    <li>Login/Registration: Users can create an account or log in to their existing account to access features like saving preferences, viewing order history, and faster checkout.</li>
+    <li>Checkout: Users can complete their purchases securely by providing billing and shipping information and selecting a payment method.</li>
+    <li>Online Chat: Users can engage in real-time chat with customer support representatives for assistance or inquiries regarding products, orders, or services.</li>
+    <li>Report Generation: Administrators can generate reports to analyze sales, track inventory, monitor customer trends, and make informed business decisions.</li>
+</ul>
+
+
+
+
 <img src="https://github.com/AshanIndrajith/Zaara.lk/blob/main/home.png">
 
 The website provides an intuitive and user-friendly interface that enables customers to easily navigate through different categories, browse product descriptions, view images, and select their preferred sizes and colors. Once customers have chosen their desired items, they can add them to their shopping cart and proceed to the checkout process, where they can provide their shipping and payment information to complete the purchase.
